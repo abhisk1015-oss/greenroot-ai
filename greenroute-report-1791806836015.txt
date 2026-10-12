@@ -1,0 +1,45 @@
+GreenRoute AI - Sustainability & Delivery Report
+Generated: 12/10/2026, 5:37:16 PM
+Note: All figures are estimates for demonstration purposes.
+
+=== SUMMARY ===
+Total deliveries: 7
+Naive route distance: 91.9 km
+Optimized route distance: 65.1 km
+Distance saved: 26.9 km
+Green score: 100/100
+
+=== EMISSIONS (estimated) ===
+CO2 - naive fuel route: 30.8 kg
+CO2 - optimized EV route: 16.3 kg
+CO2 saved: 14.5 kg
+
+=== COSTS (estimated) ===
+Fuel (naive): ₹1,402
+Fuel (optimized): ₹992
+EV (optimized): ₹338
+Cost saved: ₹1,063
+
+=== VEHICLE SPECS ===
+Fuel (Diesel Truck): 8 km/L, 2.68 kg CO2/L
+Electric (EV Truck): 0.5 kWh/km, 0.5 kg CO2/kWh
+
+=== OPTIMIZED STOP SEQUENCE ===
+0. Depot (Hub) (Hebbal Hub, Bengaluru)
+1. MG Road - 12.9756,77.6067 - 12 kg - high
+2. Indiranagar - 12.9719,77.6412 - 8 kg - medium
+3. Koramangala - 12.9352,77.6245 - 15 kg - high
+4. Jayanagar - 12.925,77.5938 - 6 kg - low
+5. Electronic City - 12.8456,77.6603 - 18 kg - high
+6. Marathahalli - 12.9591,77.7345 - 10 kg - medium
+7. Whitefield - 12.9698,77.75 - 20 kg - medium
+8. Return to Depot (Hub)
+
+=== DELIVERY LIST ===
+1. Indiranagar | 100 Feet Road, Indiranagar, Bengaluru | 8 kg | medium | pending
+2. Koramangala | 5th Block, Koramangala, Bengaluru | 15 kg | high | pending
+3. Whitefield | ITPL Road, Whitefield, Bengaluru | 20 kg | medium | pending
+4. Jayanagar | Jayanagar 4th Block, Bengaluru | 6 kg | low | pending
+5. Electronic City | Electronic City Phase 1, Bengaluru | 18 kg | high | pending
+6. Marathahalli | Marathahalli Bridge, Bengaluru | 10 kg | medium | pending
+7. MG Road | MG Road, Bengaluru | 12 kg | high | pending
